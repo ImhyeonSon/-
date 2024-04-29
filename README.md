@@ -14,13 +14,13 @@
 
 ## 다운로드
 
-[Android DownLoad(원 스토어)](https://m.onestore.co.kr/mobilepoc/apps/appsDetail.omp?prodId=0000775718)
+#### [Android 🎮🕹️ DownLoad(원 스토어 Link)](https://m.onestore.co.kr/mobilepoc/apps/appsDetail.omp?prodId=0000775718)
 
 ## 플레이 영상
 ### 플레이
-[플레이 영상](https://www.youtube.com/watch?v=GlVvbZktqg0)
+[플레이 영상](youtubeLink)
 <br/>
-[![Video Label](http://img.youtube.com/vi/GlVvbZktqg0/0.jpg)](https://www.youtube.com/watch?v=GlVvbZktqg0)
+[![Video Label](http://img.youtube.com/vi/GlVvbZktqg0/0.jpg)](youtubeLink)
 
 
 ## 개요
