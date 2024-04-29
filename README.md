@@ -53,7 +53,7 @@
 ![Tutorial](images/gifs/MainUI/Tutorial.gif)
 
 ### BGM On&Off
-![BGM](images/gifs/MainUI/TLP_login.gif)
+![BGM](images/gifs/MainUI/BGM.gif)
 
 ### Rank Record
 ![Rank](images/gifs/MainUI/Rank.gif)
