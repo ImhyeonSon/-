@@ -18,9 +18,10 @@
 
 ## 플레이 영상
 ### 플레이
-[플레이 영상](youtubeLink)
+[플레이 영상](https://www.youtube.com/watch?v=VJvAs3x-4Mg)
 <br/>
-[![Video Label](http://img.youtube.com/vi/GlVvbZktqg0/0.jpg)](youtubeLink)
+[![Video Label](http://img.youtube.com/watch?v=VJvAs3x-4Mg/0.jpg)](https://www.youtube.com/watch?v=VJvAs3x-4Mg)
+
 
 
 ## 개요
