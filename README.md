@@ -20,7 +20,7 @@
 ### 플레이
 [플레이 영상](https://www.youtube.com/watch?v=VJvAs3x-4Mg)
 <br/>
-[![Video Label](http://img.youtube.com/vi/watch?v=VJvAs3x-4Mg/0.jpg)](https://www.youtube.com/watch?v=VJvAs3x-4Mg)
+[![Video Label](http://img.youtube.com/vi/VJvAs3x-4Mg/0.jpg)](https://www.youtube.com/VJvAs3x-4Mg)
 
 
 
