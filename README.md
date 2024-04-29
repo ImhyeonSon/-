@@ -1,4 +1,4 @@
-# 🍀운빨 행운 디펜스🍀
+# 🍀랜덤 운빨 디펜스🍀
 
 <div align="center">
 24.03.25 ~ 23.04.23<br/>
@@ -30,10 +30,10 @@
 
 
 ## 게임 진행
-각 라운드의 시작까지 15초의 🕑준비 시간🕑이 있습니다.<br/>
-5라운드마다 더 강력한 ☠️보스 몬스터☠️가 나옵니다.<br/>
-총 45라운드까지 있으며 모든 몬스터를 저지하면 🏆승리🏆합니다.<br/>
-몬스터를 저지하기 전에 Player의 체력이 0이 되면 ❌패배❌합니다.<br/>
+###### 각 라운드의 시작까지 15초의 🕑준비 시간🕑이 있습니다.<br/>
+###### 5라운드마다 더 강력한 ☠️보스 몬스터☠️가 나옵니다.<br/>
+###### 총 45라운드까지 있으며 모든 몬스터를 저지하면 🏆승리🏆합니다.<br/>
+###### 몬스터를 저지하기 전에 Player의 체력이 0이 되면 ❌패배❌합니다.<br/>
 
 
 ## 기능별 화면 
@@ -43,10 +43,10 @@
 <summary>접기/펼치기</summary>
 
 ### MainPage
-![MainPage](../images/gifs/MainUI/MainPage.gif)
+![MainPage](images/gifs/MainUI/MainPage.gif)
 
 ### Tutorial
-![Tutorial](../images/gifs/MainUI/Tutorial.gif)
+![Tutorial](images/gifs/MainUI/Tutorial.gif)
 
 ### BGM On&Off
 ![BGM](../images/gifs/MainUI/TLP_login.gif)
@@ -129,7 +129,7 @@
 ![마법사 B](../images/gifs/GameScene/Magician_B.gif)
 
 ### 마법사 (A)
-![마법사 A](../images/gifs/GameScene/Magician_Agif)
+![마법사 A](../images/gifs/GameScene/Magician_A.gif)
 
 ### 마법사 (S)
 ![마법사 S](../images/gifs/GameScene/Magician_S.gif)
@@ -171,23 +171,23 @@
 ## 구현 내용 (1인 개발)
 <strong>손임현</strong>
 - UI
- > Play UI
- > Main Page UI
- > UI 비율 고정
- > 게임 설명 UI
+ > Play UI</br>
+ > Main Page UI</br>
+ > UI 비율 고정</br>
+ > 게임 설명 UI</br>
 
 - Game
- > Tower 공격, Monster 공격 기능 구현
- > Tower, Player Upgrade 기능 구현
- > Tower Drag & Drop 기능 구현
- > Tower 생성 및 판매 기능 구현
- > Round 시작 & Skip 기능 구현
- > Tower & Monster 생성 기능 구현
- > Tower & Monster Info 기능 구현
+ > Tower 공격, Monster 공격 기능 구현</br>
+ > Tower, Player Upgrade 기능 구현</br>
+ > Tower Drag & Drop 기능 구현</br>
+ > Tower 생성 및 판매 기능 구현</br>
+ > Round 시작 & Skip 기능 구현</br>
+ > Tower & Monster 생성 기능 구현</br>
+ > Tower & Monster Info 기능 구현</br>
 
 - Google AdMob
- > 광고 시청 후 Play 시작 -> (원스토어로 변경 후 광고 기능 삭제)
+ > 광고 시청 후 Play 시작 -> (원스토어로 변경 후 광고 기능 삭제)</br>
 
 - Data
- > playerprefs로 이전 플레이 정보 & 세팅 정보 저장 기능 구현
- > 게임 시작 시 Data Road 구현 (CSV 파일)
+ > playerprefs로 이전 플레이 정보 & 세팅 정보 저장 기능 구현</br>
+ > 게임 시작 시 Data Road 구현 (CSV 파일)</br>
