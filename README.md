@@ -42,17 +42,20 @@
 <details>
 <summary>접기/펼치기</summary>
 
-### MainUI
-![타워구매](../images/gifs/TLP_login.gif)
+### MainPage
+![MainPage](../images/gifs/MainUI/MainPage.gif)
 
 ### Tutorial
-![타워구매](../images/gifs/TLP_login.gif)
+![Tutorial](../images/gifs/MainUI/Tutorial.gif)
 
 ### BGM On&Off
-![타워구매](../images/gifs/TLP_login.gif)
+![BGM](../images/gifs/MainUI/TLP_login.gif)
 
 ### Rank Record
-![타워구매](../images/gifs/TLP_login.gif)
+![Rank](../images/gifs/MainUI/Rank.gif)
+
+### GameStart
+![Rank](../images/gifs/MainUI/GameStart.gif)
 </details>
 
 
@@ -62,31 +65,38 @@
 <summary>접기/펼치기</summary>
 
 ### 타워 구매
-![타워구매](../images/gifs/TLP_login.gif)
+![타워구매](../images/gifs/GameScene/TowerBuy.gif)
 
 ### Player 능력 Upgrade
-![타워구매](../images/gifs/TLP_login.gif)
+![플레이어 강화](../images/gifs/GameScene/PlayerUpgrade.gif)
 
 ### Tower 선택
-![타워구매](../images/gifs/TLP_login.gif)
+![타워 선택](../images/gifs/GameScene/TowerSelect.gif)
 
 ### Tower Drag&Drop
-![타워구매](../images/gifs/TLP_login.gif)
+![타워 드래그앤 드롭](../images/gifs/GameScene/TowerMove.gif)
 
-### Tower Drag&Drop2
-![타워구매](../images/gifs/TLP_login.gif)
+### Tower Change
+![타워 교환](../images/gifs/GameScene/TowerChange.gif)
 
-### Tower Drag&Drop3
-![타워구매](../images/gifs/TLP_login.gif)
+### Tower Seat
+![타워 이동](../images/gifs/GameScene/TowerMove3.gif)
 
 ### Tower Upgrade
-![타워구매](../images/gifs/TLP_login.gif)
+![타워 강화](../images/gifs/GameScene/TowerUpgrade.gif)
 
 ### Tower 판매
-![타워구매](../images/gifs/TLP_login.gif)
+![타워 판매](../images/gifs/GameScene/TowerSell.gif)
 
 ### Monster Information
-![타워구매](../images/gifs/TLP_login.gif)
+![몬스터 정보](../images/gifs/GameScene/SlimeInfo.gif)
+
+### Game Clear
+![몬스터 정보](../images/gifs/GameScene/GameClear.gif)
+
+### Game Over
+![몬스터 정보](../images/gifs/GameScene/GameOver.gif)
+
 </details>
 
 
@@ -96,53 +106,53 @@
 
 ## 검사
 ### 검사 (B)
-![타워구매](../images/gifs/TLP_login.gif)
+![검사 B](../images/gifs/GameScene/Sword_B.gif)
 
 ### 검사 (A)
-![타워구매](../images/gifs/TLP_login.gif)
+![검사 A](../images/gifs/GameScene/Sword_A.gif)
 
 ### 검사 (S)
-![타워구매](../images/gifs/TLP_login.gif)
+![검사 S](../images/gifs/GameScene/Sword_S.gif)
 
 ## 창술사
 ### 창술사 (B)
-![타워구매](../images/gifs/TLP_login.gif)
+![창술사 B](../images/gifs/GameScene/Pense_B.gif)
 
 ### 창술사 (A)
-![타워구매](../images/gifs/TLP_login.gif)
+![창술사 A](../images/gifs/GameScene/Pense_A.gif)
 
 ### 창술사 (S)
-![타워구매](../images/gifs/TLP_login.gif)
+![창술사 S](../images/gifs/GameScene/Pense_S.gif)
 
 ## 마법사
 ### 마법사 (B)
-![타워구매](../images/gifs/TLP_login.gif)
+![마법사 B](../images/gifs/GameScene/Magician_B.gif)
 
 ### 마법사 (A)
-![타워구매](../images/gifs/TLP_login.gif)
+![마법사 A](../images/gifs/GameScene/Magician_Agif)
 
 ### 마법사 (S)
-![타워구매](../images/gifs/TLP_login.gif)
+![마법사 S](../images/gifs/GameScene/Magician_S.gif)
 
 ## 총잡이
 ### 총잡이 (B)
-![타워구매](../images/gifs/TLP_login.gif)
+![총잡이 B](../images/gifs/GameScene/Gun_A.gif)
 
 ### 총잡이 (A)
-![타워구매](../images/gifs/TLP_login.gif)
+![총잡이 A](../images/gifs/GameScene/Gun_A.gif)
 
 ### 총잡이 (S)
-![타워구매](../images/gifs/TLP_login.gif)
+![총잡이 S](../images/gifs/GameScene/Gun_S.gif)
 
 ## 흑마법사(광역)
 ### 흑마법사 (B)
-![타워구매](../images/gifs/TLP_login.gif)
+![흑마법사 B](../images/GameScene/Splash_B.gif)
 
 ### 흑마법사 (A)
-![타워구매](../images/gifs/TLP_login.gif)
+![흑마법사 A](../images/GameScene/Splash_A.gif)
 
 ### 흑마법사 (S)
-![타워구매](../images/gifs/TLP_login.gif)
+![흑마법사 S](../images/GameScene/Splash_S.gif)
 </details>
 
 
