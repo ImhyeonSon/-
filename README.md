@@ -30,10 +30,10 @@
 
 
 ## 게임 진행
-###### 각 라운드의 시작까지 15초의 🕑준비 시간🕑이 있습니다.<br/>
-###### 5라운드마다 더 강력한 ☠️보스 몬스터☠️가 나옵니다.<br/>
-###### 총 45라운드까지 있으며 모든 몬스터를 저지하면 🏆승리🏆합니다.<br/>
-###### 몬스터를 저지하기 전에 Player의 체력이 0이 되면 ❌패배❌합니다.<br/>
+##### 각 라운드의 시작까지 15초의 🕑준비 시간🕑이 있습니다.<br/>
+##### 5라운드마다 더 강력한 ☠️보스 몬스터☠️가 나옵니다.<br/>
+##### 총 45라운드까지 있으며 모든 몬스터를 저지하면 🏆승리🏆합니다.<br/>
+##### 몬스터를 저지하기 전에 Player의 체력이 0이 되면 ❌패배❌합니다.<br/>
 
 
 ## 기능별 화면 
@@ -49,13 +49,13 @@
 ![Tutorial](images/gifs/MainUI/Tutorial.gif)
 
 ### BGM On&Off
-![BGM](../images/gifs/MainUI/TLP_login.gif)
+![BGM](images/gifs/MainUI/TLP_login.gif)
 
 ### Rank Record
-![Rank](../images/gifs/MainUI/Rank.gif)
+![Rank](images/gifs/MainUI/Rank.gif)
 
 ### GameStart
-![Rank](../images/gifs/MainUI/GameStart.gif)
+![Rank](images/gifs/MainUI/GameStart.gif)
 </details>
 
 
@@ -65,37 +65,37 @@
 <summary>접기/펼치기</summary>
 
 ### 타워 구매
-![타워구매](../images/gifs/GameScene/TowerBuy.gif)
+![타워구매](images/gifs/GameScene/TowerBuy.gif)
 
 ### Player 능력 Upgrade
-![플레이어 강화](../images/gifs/GameScene/PlayerUpgrade.gif)
+![플레이어 강화](images/gifs/GameScene/PlayerUpgrade.gif)
 
 ### Tower 선택
-![타워 선택](../images/gifs/GameScene/TowerSelect.gif)
+![타워 선택](images/gifs/GameScene/TowerSelect.gif)
 
 ### Tower Drag&Drop
-![타워 드래그앤 드롭](../images/gifs/GameScene/TowerMove.gif)
+![타워 드래그앤 드롭](images/gifs/GameScene/TowerMove.gif)
 
 ### Tower Change
-![타워 교환](../images/gifs/GameScene/TowerChange.gif)
+![타워 교환](images/gifs/GameScene/TowerChange.gif)
 
 ### Tower Seat
-![타워 이동](../images/gifs/GameScene/TowerMove3.gif)
+![타워 이동](images/gifs/GameScene/TowerMove3.gif)
 
 ### Tower Upgrade
-![타워 강화](../images/gifs/GameScene/TowerUpgrade.gif)
+![타워 강화](images/gifs/GameScene/TowerUpgrade.gif)
 
 ### Tower 판매
-![타워 판매](../images/gifs/GameScene/TowerSell.gif)
+![타워 판매](images/gifs/GameScene/TowerSell.gif)
 
 ### Monster Information
-![몬스터 정보](../images/gifs/GameScene/SlimeInfo.gif)
+![몬스터 정보](images/gifs/GameScene/SlimeInfo.gif)
 
 ### Game Clear
-![몬스터 정보](../images/gifs/GameScene/GameClear.gif)
+![몬스터 정보](images/gifs/GameScene/GameClear.gif)
 
 ### Game Over
-![몬스터 정보](../images/gifs/GameScene/GameOver.gif)
+![몬스터 정보](images/gifs/GameScene/GameOver.gif)
 
 </details>
 
@@ -106,53 +106,53 @@
 
 ## 검사
 ### 검사 (B)
-![검사 B](../images/gifs/GameScene/Sword_B.gif)
+![검사 B](images/gifs/GameScene/Sword_B.gif)
 
 ### 검사 (A)
-![검사 A](../images/gifs/GameScene/Sword_A.gif)
+![검사 A](images/gifs/GameScene/Sword_A.gif)
 
 ### 검사 (S)
-![검사 S](../images/gifs/GameScene/Sword_S.gif)
+![검사 S](images/gifs/GameScene/Sword_S.gif)
 
 ## 창술사
 ### 창술사 (B)
-![창술사 B](../images/gifs/GameScene/Pense_B.gif)
+![창술사 B](images/gifs/GameScene/Pense_B.gif)
 
 ### 창술사 (A)
-![창술사 A](../images/gifs/GameScene/Pense_A.gif)
+![창술사 A](images/gifs/GameScene/Pense_A.gif)
 
 ### 창술사 (S)
-![창술사 S](../images/gifs/GameScene/Pense_S.gif)
+![창술사 S](images/gifs/GameScene/Pense_S.gif)
 
 ## 마법사
 ### 마법사 (B)
-![마법사 B](../images/gifs/GameScene/Magician_B.gif)
+![마법사 B](images/gifs/GameScene/Magician_B.gif)
 
 ### 마법사 (A)
-![마법사 A](../images/gifs/GameScene/Magician_A.gif)
+![마법사 A](images/gifs/GameScene/Magician_A.gif)
 
 ### 마법사 (S)
-![마법사 S](../images/gifs/GameScene/Magician_S.gif)
+![마법사 S](images/gifs/GameScene/Magician_S.gif)
 
 ## 총잡이
 ### 총잡이 (B)
-![총잡이 B](../images/gifs/GameScene/Gun_A.gif)
+![총잡이 B](images/gifs/GameScene/Gun_A.gif)
 
 ### 총잡이 (A)
-![총잡이 A](../images/gifs/GameScene/Gun_A.gif)
+![총잡이 A](images/gifs/GameScene/Gun_A.gif)
 
 ### 총잡이 (S)
-![총잡이 S](../images/gifs/GameScene/Gun_S.gif)
+![총잡이 S](images/gifs/GameScene/Gun_S.gif)
 
 ## 흑마법사(광역)
 ### 흑마법사 (B)
-![흑마법사 B](../images/GameScene/Splash_B.gif)
+![흑마법사 B](images/GameScene/Splash_B.gif)
 
 ### 흑마법사 (A)
-![흑마법사 A](../images/GameScene/Splash_A.gif)
+![흑마법사 A](images/GameScene/Splash_A.gif)
 
 ### 흑마법사 (S)
-![흑마법사 S](../images/GameScene/Splash_S.gif)
+![흑마법사 S](images/GameScene/Splash_S.gif)
 </details>
 
 
