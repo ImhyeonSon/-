@@ -21,9 +21,9 @@
 //        LoadInterstitialAd();
 //    }
 
-//    // Unity¿¡¼­´Â ±×´ë·Î Å×½ºÆ® ¾ÆÀÌµð »ç¿ë
+//    // Unityì—ì„œëŠ” ê·¸ëŒ€ë¡œ í…ŒìŠ¤íŠ¸ ì•„ì´ë”” ì‚¬ìš©
 //#if UNITY_ANDROID
-//    private string _adUnitId = "ca-app-pub-5637949611981392/6407964744";
+//    private string _adUnitId = "ca-app-pub-3940256099942544/1033173712"; // test key
 //#elif UNITY_IPHONE
 //  private string _adUnitId = "ca-app-pub-3940256099942544/4411468910";
 //#else
@@ -65,7 +65,7 @@
 //                          + ad.GetResponseInfo());
 
 //                _interstitialAd = ad;
-//                RegisterEventHandlers(ad); //¾Æ¿À ¿©±â¼­ ½ÇÇàÇØ¶ó
+//                RegisterEventHandlers(ad); //ì•„ì˜¤ ì—¬ê¸°ì„œ ì‹¤í–‰í•´ë¼
 //            });
 //        RegisterEventHandlers(_interstitialAd);
 //        //_interstitialAd.OnAdFullScreenContentClosed += ;
@@ -113,14 +113,14 @@
 //        };
 //        // Raised when the ad closed full screen content.
 
-//        //±¤°í reLoad
+//        //ê´‘ê³  reLoad
 //        interstitialAd.OnAdFullScreenContentClosed += () =>
 //        {
 //            GA.DestroyBannerView();
 //            SceneManager.LoadScene("GameScene");
 //            LoadInterstitialAd();
-//            // °ÔÀÓ ½ÃÀÛ
-//            _interstitialAd.Destroy();// ½ÃÀÛÀü ¸Þ¸ð¸® Á¤¸®
+//            // ê²Œìž„ ì‹œìž‘
+//            _interstitialAd.Destroy();// ì‹œìž‘ì „ ë©”ëª¨ë¦¬ ì •ë¦¬
 //        };
 
 //        interstitialAd.OnAdFullScreenContentFailed += (AdError error) =>
