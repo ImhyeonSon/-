@@ -4,7 +4,7 @@ public class GoogleAds : MonoBehaviour
 { 
 
 }
-
+// 배너
 //using System.Collections;
 //using System.Collections.Generic;
 //using UnityEngine;
@@ -27,7 +27,7 @@ public class GoogleAds : MonoBehaviour
 //    }
 
 //#if UNITY_ANDROID
-//    private string _adUnitId = "ca-app-pub-5637949611981392/9325772126";
+//    private string _adUnitId = "ca-app-pub-3940256099942544/6300978111"; // test용 key
 //#elif UNITY_IPHONE
 //  private string _adUnitId = "ca-app-pub-3940256099942544/2934735716";
 //#else
@@ -47,7 +47,8 @@ public class GoogleAds : MonoBehaviour
 //            this._bannerView.Destroy();
 //            DestroyBannerView();
 //        }
-//        AdSize adaptiveSize = AdSize.GetCurrentOrientationAnchoredAdaptiveBannerAdSizeWithWidth(AdSize.FullWidth);
+//
+//        AdSize adaptiveSize = AdSize.GetCurrentOrientationAnchoredAdaptiveBannerAdSizeWithWidth(AdSize.FullWidth); //적응형 사이즈
 
 //        // Create a 320x50 banner at top of the screen
 //        _bannerView = new BannerView(_adUnitId, adaptiveSize, AdPosition.Bottom);
@@ -66,7 +67,7 @@ public class GoogleAds : MonoBehaviour
 //        _bannerView.LoadAd(adRequest);
 //    }
 
-//    public void DestroyBannerView() // �� �̵��� ����
+//    public void DestroyBannerView() // ¾À ÀÌµ¿½Ã »èÁ¦
 //    {
 //        if (_bannerView != null)
 //        {
