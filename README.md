@@ -141,7 +141,7 @@
 
 ## 총잡이
 ### 총잡이 (B)
-![총잡이 B](images/gifs/GameScene/Gun_A.gif)
+![총잡이 B](images/gifs/GameScene/Gun_B.gif)
 
 ### 총잡이 (A)
 ![총잡이 A](images/gifs/GameScene/Gun_A.gif)
@@ -151,13 +151,13 @@
 
 ## 흑마법사(광역)
 ### 흑마법사 (B)
-![흑마법사 B](images/GameScene/Splash_B.gif)
+![흑마법사 B](images/gifs/GameScene/Splash_B.gif)
 
 ### 흑마법사 (A)
-![흑마법사 A](images/GameScene/Splash_A.gif)
+![흑마법사 A](images/gifs/GameScene/Splash_A.gif)
 
 ### 흑마법사 (S)
-![흑마법사 S](images/GameScene/Splash_S.gif)
+![흑마법사 S](images/gifs/GameScene/Splash_S.gif)
 </details>
 
 
